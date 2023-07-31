@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56e02dad-d8d5-4a38-bbd0-3b68998675a3" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/.bundle/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/.watchmanconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/__tests__/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/debug.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/debug/java/com/nativeportfolio/ReactNativeFlipper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/main/java/com/nativeportfolio/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/main/java/com/nativeportfolio/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/main/res/drawable/rn_edit_text_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/app/src/release/java/com/nativeportfolio/ReactNativeFlipper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/ios/.xcode.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/ios/Podfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/ios/nativePortfolio.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/ios/nativePortfolio.xcodeproj/xcshareddata/xcschemes/nativePortfolio.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/ios/nativePortfolio.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/ios/nativePortfolio/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/ios/nativePortfolio/AppDelegate.mm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/ios/nativePortfolio/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/ios/nativePortfolio/Images.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/ios/nativePortfolio/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/ios/nativePortfolio/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/ios/nativePortfolio/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/ios/nativePortfolioTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/ios/nativePortfolioTests/nativePortfolioTests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/metro.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nativePortfolio/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TLvCnFhjLONFap844TqRXFRrhm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../Library/Android/sdk" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56e02dad-d8d5-4a38-bbd0-3b68998675a3" name="Changes" comment="" />
+      <created>1690835052949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690835052949</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+</project>
